@@ -1,8 +1,8 @@
 # cpegen
 Simple pythion script to generate cpe from csv files with basic string handling for spaces, dashes and underscores. A sample csv file is included you can use for testing or as a template.
 
-
-python3 cpegen.py -h                                           
+## Usage
+              
 usage: cpegen.py [-h] -f FILE [-o OUTPUT] [-v]
 
 Generate CPE strings from a CSV file.
