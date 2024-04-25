@@ -1,0 +1,6 @@
+﻿Part,Vendor,Product,Version,Minor Version,Update,Edition,Architecture,Language
+a,Acme Software,software A,1.2,2.3.3,5432,*,ARM,Eng
+h,Acme-Software,software-B,1.3,2,*,*,*,*
+o,Acme_Software,software_C,2,*,*,*,*,*
+o,Acme,softwareD,5,1,*,*,*,*
+o,Acme,softwareE,0.1,*,*,*,*,*
