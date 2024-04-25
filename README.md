@@ -11,4 +11,4 @@ options: \
   -h, --help            show this help message and exit \
   -f FILE, --file FILE  Path to the input CSV file \
   -o OUTPUT, --output FILE Optional output file path \
-  -v, --version         show program's version number and exit \
+  -v, --version         show program's version number and exit
